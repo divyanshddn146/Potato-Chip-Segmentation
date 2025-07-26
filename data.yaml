@@ -1,0 +1,5 @@
+train: C:/Users/divya/Desktop/Chip_CNN/train/images
+val: C:/Users/divya/Desktop/Chip_CNN/valid/images
+
+nc: 3
+names: ['chip', 'damaged', 'semi-damaged']
